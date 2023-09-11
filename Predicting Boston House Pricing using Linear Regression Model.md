@@ -23,3 +23,9 @@ We can see that the input attributes have a mixture of units.
 * TAX: full-value property-tax rate per $10,000
 * PTRATIO: pupil-teacher ratio by town 12. B: 1000(Bk−0.63)2 where Bk is the proportion of blacks by town 13. LSTAT: % lower status of the population
 * MEDV: Median value of owner-occupied homes in $1000s
+
+### Note:
+* TARGET -- The target variable is also known as an independent variable or label.
+* FEATURES -- Input features are also known as dependent variables.
+
+In our dataset,  the features, 'RM', 'LSTAT', and 'PTRATIO', give us quantitative information about each data point. The target variable, 'MEDV', will be the variable we seek to predict. These are stored in features and prices, respectively.
